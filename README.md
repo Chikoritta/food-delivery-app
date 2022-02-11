@@ -1,4 +1,4 @@
-# fooddeliveryapp
+# food delivery app
 
 A new Flutter application.
 
