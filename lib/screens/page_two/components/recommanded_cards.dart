@@ -155,7 +155,6 @@ class RecommandedCards extends StatelessWidget {
             child: Container(
               child: RichText(
                 text: TextSpan(
-                  //new feature
                   children: [
                     TextSpan(
                       text: "Price",
